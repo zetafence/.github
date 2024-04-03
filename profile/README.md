@@ -14,10 +14,10 @@
 
 ## Articles
 
-- [Zetafence Story](conception.md)
-- [Security Analysis using Hypergraphs](hypergraphs-in-security.md)
-- [Secret Preservation](secrets.md)
-- [A Library of Attack Paths](attack-paths.md)
+- [Zetafence Story](https://github.com/zetafence/public/blob/main/conception.md)
+- [Security Analysis using Hypergraphs](https://github.com/zetafence/public/blob/main/hypergraphs-in-security.md)
+- [Secret Preservation](https://github.com/zetafence/public/blob/main/secrets.md)
+- [A Library of Attack Paths](https://github.com/zetafence/public/blob/main/attack-paths.md)
 
 ## OSS Tools
 
